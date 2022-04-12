@@ -25,3 +25,16 @@
     color : #727271;
     margin-top: 6px;
 }
+
+@media(max-width: 1000px) {
+    
+    .apresentacao{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .apresentacao_foto{
+        margin: 25px;
+    }
+
+}

@@ -20,3 +20,11 @@
  font-weight: bold;
 }
  
+@media(max-width:500px){
+    .habilidades_lista{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+    }
+}

@@ -72,3 +72,16 @@
     color: #ef6817;
     margin-left: 8px;
 }
+
+/*parte mobile*/
+@media(max-width: 1000px){
+    .projetos_estudos-link{
+        height: 35px;
+        width: 250px;
+    }
+
+    .projetos_pessoais-link{
+        height:35px ;
+        width: 250px;
+    }
+}

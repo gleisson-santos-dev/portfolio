@@ -14,3 +14,18 @@
     font-weight: bold;
     color : #21201f;
 }
+@media(max-width: 1000px){
+    
+    .cabecalho{
+        display: flex;
+        justify-content: space-around;
+        height: 100px;
+    }
+    .cabecalho_nav{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    
+}

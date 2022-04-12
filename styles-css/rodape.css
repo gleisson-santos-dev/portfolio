@@ -22,3 +22,16 @@
     margin: 16px;
 
 }
+
+@media(max-width: 1000px){
+    .rodape{
+        display: flex;
+        font-size: 20px;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    .rodape_contato-link{
+        display: none;
+    }
+}
