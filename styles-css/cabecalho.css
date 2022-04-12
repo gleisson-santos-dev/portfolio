@@ -1,0 +1,16 @@
+.cabecalho{
+    background-color: #ef6817;
+    height: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
+.cabecalho_nav{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
+.cabecalho_nav-link{
+    text-decoration: none;
+    font-weight: bold;
+    color : #21201f;
+}

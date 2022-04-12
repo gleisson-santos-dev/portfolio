@@ -1,0 +1,22 @@
+.habilidades{
+    background-color: #5f605d;
+    text-align: center;
+    padding: 1%;
+}
+
+.habilidades_titulo{
+    color: #ef6817;
+    margin-bottom:12px ;
+}
+
+.habilidades_lista{
+    display: flex;
+    justify-content: space-around;
+}
+
+.habilidades_lista-icone{
+ color:#e3874f;
+ font-size: 20px;
+ font-weight: bold;
+}
+ 

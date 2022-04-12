@@ -1,0 +1,24 @@
+.rodape{
+    background-color: #21201f;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    font-weight: bold;
+    align-items: center;
+}
+.rodape_texto{
+    color: #ef6817;
+}
+
+.rodape_contato{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #ef6817;
+}
+.rodape_contato-link{
+    color:rgb(61, 213, 34);
+    margin: 16px;
+
+}

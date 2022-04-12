@@ -1,0 +1,74 @@
+/* projetos de estudos*/
+.projetos_fundo1{
+    padding: 6%;
+    background-color: #383838;
+}
+
+.projetos_estudos{    
+    background-color: #5f605d;
+    border: #21201f 3px solid;
+    border-radius: 20px;
+    display: flex;
+    padding: 3%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projetos_estudos-titulo{
+    color: #ef6817;
+    font-size: 28px;
+}
+
+.projetos_estudos-link{
+    display: flex;
+    background-color: #383838;
+    height: 150px;
+    margin: 20px;
+    padding: 2%;
+    border: #21201f 3px solid;
+    border-radius:20px ;
+    width: 1000px;
+}
+ 
+/*a parti daqui é a parte de projetos pessuais*/
+
+.projetos_fundo2{
+    background-color: #5f605d;  
+    padding: 6%;
+  }
+
+  .projetos_pessoais{
+    background-color: #383838;
+    border: #21201f 3px solid;
+    border-radius: 20px;
+    display: flex;
+    padding: 3%;
+    flex-direction: column;
+    align-items: center;
+}
+.projetos_pessoais-titulo{
+    color: #ef6817;
+    font-size: 28px;
+}
+
+.projetos_pessoais-link{
+    display: flex;
+    background-color: #5f605d;
+    height: 150px;
+    margin: 20px;
+    padding: 2%;
+    border: #21201f 3px solid;
+    border-radius:20px ;
+    width: 1000px;
+}
+
+/* esse css vale para todos tipos de projesto do site tanto pessuais quanto de estudos*/
+.projetos_link-titulo{
+    color: #ef6817;
+    margin-left: 8px;
+}
+
+.projeto_link-descricao{
+    color: #ef6817;
+    margin-left: 8px;
+}

@@ -1,0 +1,27 @@
+.apresentacao{
+    background-color: #21201f;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 23px;
+}
+.apresentacao_nome{
+    color : #727271;
+    font-size: 38px;
+}
+
+.apresentacao_foto{
+    width: 150px;
+    border: 5px #ef6817 solid ;
+    border-radius: 100%;
+}
+.apresentacao_sobre{
+    width: 320px;
+}
+.apresentacao_sobre-titulo{
+    color: #ef6817;
+}
+.apresentacao_sobre-texto{
+    color : #727271;
+    margin-top: 6px;
+}
